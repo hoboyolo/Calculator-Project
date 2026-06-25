@@ -1,16 +1,17 @@
-Simple Python Calculator
+# Simple Python Calculator
 
 A lightweight, robust, and interactive command-line calculator built with Python. This project serves as a practical example of modular programming, featuring input validation, error handling, and support for advanced mathematical operations.
 
-Features
-Standard Operations: Addition (+), Subtraction (-), Multiplication (*), and Division (/).
+## Features
 
-Advanced Operations: Modulus (%) and Exponentiation ().
+**Standard Operations**: Addition (+), Subtraction (-), Multiplication (*), and Division (/).
 
-Robustness: * Input Validation: Prevents crashes from non-numeric inputs.
+**Advanced Operations**: Modulus (%) and Exponentiation ().
 
-Error Handling: Handles division by zero and invalid operators.
+**Robustness**: * Input Validation: Prevents crashes from non-numeric inputs.
 
-Looping: Perform multiple calculations without restarting the script.
+**Error Handling**: Handles division by zero and invalid operators.
 
-Clean Design: Uses a modular function-based architecture for easy maintenance and scaling.
+**Looping**: Perform multiple calculations without restarting the script.
+
+**Clean Design**: Uses a modular function-based architecture for easy maintenance and scaling.
